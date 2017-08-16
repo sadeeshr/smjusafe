@@ -1,0 +1,17 @@
+{
+  "name": "smartjuice",
+  "version": "1.0.0",
+  "description": "Smart Juice Safe Application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/sadeeshr/smjusafe",
+  "keywords": [    
+  ],
+  "author": "sadeesh",
+  "license": "none",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
